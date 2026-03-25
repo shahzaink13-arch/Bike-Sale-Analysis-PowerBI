@@ -152,5 +152,5 @@ PowerBI-Sales-Dashboard/
 
 ## 👤 Author
 **Shahzain Sher Khan**
-- GitHub: [@shahzaink13arch](https://github.com/yourusername)
+- GitHub: [@shahzaink13-arch](https://github.com/shahzaink13-arch)
 - LinkedIn: ([https://linkedin.com](https://www.linkedin.com/in/shahzain-sher-khan-89668b193/))
